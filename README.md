@@ -10,10 +10,10 @@ The MAC (or Manfred Awesomic CV) is a(nother) naive attempt to create **a standa
 <br />
 <br />
  
-[Why use it](#-why-use-it) •
+[Why using it](#-why-use-it) •
 [How to use it](#-how-to-use-it) •
-[Who use it](#-who-uses-it) •
-[Who we are](#-who-we-are) •
+[Who may use it](#-who-uses-it) •
+[Who are we](#-who-we-are) •
 [How to contribute](#%EF%B8%8F-how-to-contribute) •
 [License](#%EF%B8%8F-license) •
 [Spread the word!](#-spread-the-word)  
@@ -27,11 +27,11 @@ The MAC (or Manfred Awesomic CV) is a(nother) naive attempt to create **a standa
   
 </div>  
 
-## 🥘 Why use it
+## 🥘 Why using it
 
 There are A LOT of CV formats, and some of them are a nice try to define a universal CV format, but we think that **a CV should include not only what candidates are or know but also what they are interested in and what they want to become**.
 
-Like most open-source projects, the first use case was found in the company where the first contributors worked. Manfred is committed to the idea that **every person should keep control over their personal and professional data**. This means that they should be able to export their data from any platform in a machine-readable format with **a Model Definition to process that data efficiently**. This is how the MAC was born.
+Like most open-source projects, the first use case was found in the company where the first contributors worked. Manfred is committed to the idea that **every person should keep control over their personal and professional data**. This means that they should be able to export their information from any platform in a machine-readable format with **a Model Definition to process that data efficiently**. This is how the MAC was born.
 
 
 !["MAC Design"](https://github.com/getmanfred/mac/blob/master/assets/readme/MAC_first_design.png?raw=true "MAC Design")
@@ -62,17 +62,17 @@ The Schema is documented by itself, but it's much easier to get "the big picture
 <br />
 <br />
 
-## 🎨 Who uses it
+## 🎨 Who may use it
 
 A bunch of Tech Startups, IT Consulting Companies and Recruiting Platforms already use the MAC as an interchangeable format **to unlock the data of their users, candidates and employees and give them back the power to use it wherever they want**.
 
 <a href="https://www.getmanfred.com/" target="_blank"><img alt="Manfred" src="https://pbs.twimg.com/profile_images/946845160004112384/ap8_xjIa_400x400.jpg" width="170"/></a> <a href="https://www.sngular.com/" target="_blank"><img alt="SNGULAR" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ympwkuxhx9lusfwrfbbb" width="170"/></a> <a href="https://mobivery.com/" target="_blank"><img alt="MOBIVERY" src="https://pbs.twimg.com/profile_images/1494757617859760135/Cs05qCrQ_400x400.png" width="170"/></a>
 
-## 🤓 Who we are
+## 🤓 Who are we
 
 The MAC was made with ❤️ and sentidiño in Galicia, Spain.
 
-As common in new projects, the individual or group who started the project also administers the project, establishes its vision, and controls permissions to merge code into it. **We have appointed a starting Council to manage the MAC**, formed by 2 people from Manfred and 2 independent members, but the plan is to hold formal elections, where contributors will vote for candidates for the Council as soon as the project gets a minimum maturity and adoption.
+As common in new projects, the individual or group who started the project also administers it, establishes its vision, and controls permissions to merge code into it. **We have appointed a starting Council to manage the MAC**, formed by 2 people from Manfred and 2 independent members, but the plan is to hold formal elections, where contributors will vote for candidates for the Council as soon as the project gets a minimum maturity and adoption.
 
 Right now the Council is formed by:
 
